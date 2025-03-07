@@ -1,6 +1,6 @@
 # 🌟 Aditya Swamesh – AI & IoT Enthusiast  
 
-### 🔗 Portfolio: [lovely-lokum-7d7f91.netlify.app](https://lovely-lokum-7d7f91.netlify.app/)  
+### 🔗 Portfolio: https://bright-unicorn-a8e9a5.netlify.app/ 
 
 ## 🚀 About Me  
 Hi, I'm **Aditya Swamesh**, a passionate **AI-driven developer** with expertise in **IoT, Face Recognition, and Cybersecurity**. I love building intelligent systems that enhance automation, security, and efficiency.  
@@ -48,7 +48,7 @@ Hi, I'm **Aditya Swamesh**, a passionate **AI-driven developer** with expertise 
 📍 **Indore, Madhya Pradesh**  
 📞 **9300752679**  
 ✉ **adityaswamesh656@gmail.com**  
-🔗 **Portfolio:** [lovely-lokum-7d7f91.netlify.app](https://lovely-lokum-7d7f91.netlify.app/)  
+🔗 **Portfolio:** https://bright-unicorn-a8e9a5.netlify.app/  
 🔗 **GitHub:** [Your GitHub Link]  
 🔗 **LinkedIn:** [Your LinkedIn Profile]  
 
