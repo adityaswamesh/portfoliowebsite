@@ -1,6 +1,6 @@
 # 🌟 Aditya Swamesh – AI & IoT Enthusiast  
 
-### 🔗 Portfolio: https://swameshaditya12345656davv.on.drv.tw/www.swamesh.com/index.html.html)(https://swameshaditya12345656davv.on.drv.tw/www.swamesh.com/index.html.html) 
+### 🔗 Portfolio: https://swameshaditya12345656davv.on.drv.tw/www.swamesh.com/index.html.html
 
 ## 🚀 About Me  
 Hi, I'm **Aditya Swamesh**, a passionate **AI-driven developer** with expertise in **IoT, Face Recognition, and Cybersecurity**. I love building intelligent systems that enhance automation, security, and efficiency.  
